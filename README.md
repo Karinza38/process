@@ -1,4 +1,4 @@
-# W3C Process Document repository
+ W3C Process Document repository
 
 
 This repository is for the editor's draft of the [World Wide Web Consortium Process Document](https://www.w3.org/policies/process/).
